@@ -1,4 +1,4 @@
-# pandas-challenge
+# school-board-budget-by-pandas
 Helping the  school board and mayor make strategic decisions regarding future school budgets and priorities by analyzing some data.
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
